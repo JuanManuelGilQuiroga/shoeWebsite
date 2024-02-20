@@ -7,3 +7,9 @@ nav:
 ul:
 li:
 form:
+
+margin:
+padding:
+z-index:
+grid template columns:
+align-items:
