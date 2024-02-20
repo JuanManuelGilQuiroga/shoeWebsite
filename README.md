@@ -13,3 +13,5 @@ padding:
 z-index:
 grid template columns:
 align-items:
+outline:
+transform:
