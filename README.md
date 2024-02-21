@@ -4,18 +4,18 @@
 
 **ETIQUETAS HTML:**
 
-`header` El <header> elemento representa un contenedor para contenido introductorio o un conjunto de enlaces de navegación.
+`header` El `header` elemento representa un contenedor para contenido introductorio o un conjunto de enlaces de navegación.
 
-`nav`La <nav>etiqueta define un conjunto de enlaces de navegación.
-Tenga en cuenta que NO todos los enlaces de un documento deben estar dentro de un <nav>elemento. El <nav>elemento está destinado únicamente a bloques importantes de enlaces de navegación.
+`nav`La `nav` etiqueta define un conjunto de enlaces de navegación.
+Tenga en cuenta que NO todos los enlaces de un documento deben estar dentro de un nav elemento. El `nav` elemento está destinado únicamente a bloques importantes de enlaces de navegación.
 
-`ul`La <ul>etiqueta define una lista desordenada (con viñetas).
-Utilice la <ul>etiqueta junto con la etiqueta <li> para crear listas desordenadas.
+`ul`La `ul` etiqueta define una lista desordenada (con viñetas).
+Utilice la `ul` etiqueta junto con la etiqueta `li` para crear listas desordenadas.
 
-`li`La <li>etiqueta define un elemento de la lista.
-La <li>etiqueta se usa dentro de listas ordenadas ( <ol> ), listas desordenadas ( <ul> ) y en listas de menú ( <menu> ).
+`li`La `li` etiqueta define un elemento de la lista.
+La `li` etiqueta se usa dentro de listas ordenadas ( `ol` ), listas desordenadas ( `ul` ) y en listas de menú ( `menu` ).
 
-`form`El elemento HTML <form>se utiliza para crear un formulario HTML para la entrada del usuario:
+`form`El elemento HTML `form` se utiliza para crear un formulario HTML para la entrada del usuario:
 
 
 
